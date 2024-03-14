@@ -7,7 +7,7 @@ void insertionsort() {
     int arr[20];
     
     for (i = 1; i <= n - 1; i++) {// step 1
-
+        
     }
 }
 
